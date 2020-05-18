@@ -1,4 +1,4 @@
-#include "DynamicMassive.cpp"
+#include "DynamicArr.cpp"
 #include "LinkedList.cpp"
 
 template <class T> class Sequence {
